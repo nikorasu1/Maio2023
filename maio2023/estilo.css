@@ -1,0 +1,76 @@
+.title
+
+{
+
+    font-size: 42;
+    font-family: "Arial";
+    color: gray ;
+    text-align: center;
+}
+
+table
+
+{
+    width: 1200px;
+    height: 432px;
+    text-align: center;
+}
+
+.yellow
+
+{
+    width: 180px;
+    background-color: #FFFF66;
+    border: 1px solid;
+    border-color: #E4E4E4;
+}
+
+#red
+
+{
+    font-family: Arial;
+    font-size: 40;
+    color: red;
+
+
+}
+
+.dia
+
+{
+    background-color: #EEEEEE;
+    height: 32;
+    width: 180;
+    font-size: 34;
+}
+
+td
+
+{
+    height: 80px;
+    width: 180px;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: #E4E4E4;
+    font-family: Arial;
+    font-size: 42;
+    font-weight: bold;
+}
+
+.purple
+
+{
+    width: 180px;
+    background-color: #CCCCFF;
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: #E4E4E4;
+    color: #000099;
+}
+
+p
+
+{
+    font-family: Arial;
+    font-size: 14;
+}
